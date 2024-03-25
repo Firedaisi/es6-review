@@ -1,0 +1,11 @@
+{
+  "name": "es6-review",
+  "version": "0.0.1",
+  "description": "ism 210 class illustration codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Opeyemi Oludaisi",
+  "license": "MIT"
+}
